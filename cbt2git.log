@@ -1,0 +1,32 @@
+2023-08-06 06:46:42.521658 - Initialized conversion of CBT733
+2023-08-06 06:46:42.858176 - Received CBT.V505.FILE733.PDS from FILE733.XMI 
+2023-08-06 06:46:42.860691 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:46:42.861757 - Found $INSTALL.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/$INSTALL
+2023-08-06 06:46:42.862667 - Found @FILE733.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/@FILE733
+2023-08-06 06:46:42.863552 - Found A68C01.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C01
+2023-08-06 06:46:42.864502 - Found A68C02.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C02
+2023-08-06 06:46:42.865355 - Found A68C03.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C03
+2023-08-06 06:46:42.866283 - Found A68C04.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C04
+2023-08-06 06:46:42.867264 - Found A68C05.jcl (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C05
+2023-08-06 06:46:42.868129 - Found A68C06.jcl (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C06
+2023-08-06 06:46:42.868141 - Found A68C07.bin containing application/octet-stream, moved to PDS/A68C07
+2023-08-06 06:46:42.869067 - Found A68C08.bin containing application/octet-stream, moved to PDS/A68C08
+2023-08-06 06:46:42.870071 - Found A68C09.bin containing application/octet-stream, moved to PDS/A68C09
+2023-08-06 06:46:42.871254 - Found A68C10.bin containing application/octet-stream, moved to PDS/A68C10
+2023-08-06 06:46:42.873073 - Found A68C11.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C11
+2023-08-06 06:46:42.873084 - Found A68C12.bin containing application/octet-stream, moved to PDS/A68C12
+2023-08-06 06:46:42.874106 - Found A68C13.bin containing application/octet-stream, moved to PDS/A68C13
+2023-08-06 06:46:42.875170 - Found A68C14.bin containing application/octet-stream, moved to PDS/A68C14
+2023-08-06 06:46:42.876068 - Found A68C15.bin containing application/octet-stream, moved to PDS/A68C15
+2023-08-06 06:46:42.878076 - Found A68C16.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C16
+2023-08-06 06:46:42.878085 - Found A68C17.bin containing application/octet-stream, moved to PDS/A68C17
+2023-08-06 06:46:42.879088 - Found A68C18.bin containing application/octet-stream, moved to PDS/A68C18
+2023-08-06 06:46:42.880022 - Found A68C19.bin containing application/octet-stream, moved to PDS/A68C19
+2023-08-06 06:46:42.881797 - Found A68C20.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C20
+2023-08-06 06:46:42.882727 - Found A68C21.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C21
+2023-08-06 06:46:42.883629 - Found A68C22.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C22
+2023-08-06 06:46:42.884506 - Found A68C23.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C23
+2023-08-06 06:46:42.885374 - Found A68C24.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C24
+2023-08-06 06:46:42.886312 - Found A68C25.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/A68C25
+2023-08-06 06:46:42.887356 - Found PACK.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/PACK
+2023-08-06 06:46:42.888256 - Found PACKCEBC.txt (text/plain) in CBT.V505.FILE733.PDS, moved to PDS/PACKCEBC
